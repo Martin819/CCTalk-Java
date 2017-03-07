@@ -37,5 +37,6 @@ Here some simple examples.
 
 * close connection
 
-
-	connection.close();WORK IN PROGRESS
+'''
+	connection.close();
+'''
